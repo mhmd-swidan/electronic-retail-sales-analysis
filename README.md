@@ -47,8 +47,8 @@ The dashboard supports dynamic filtering by:
 - **Product Name**
 
 ## 🛠️ Tools Used
-
-- **Power BI Desktop** — data modeling, DAX measures, and visualization
+- **Python** - Pandas , NumPy , faker
+- **Power BI Desktop** — Data Modeling (Star Schema), DAX measures, and visualization
 - **DAX** — for KPI calculations and YoY comparisons
 
 ## 📂 Repository Contents
