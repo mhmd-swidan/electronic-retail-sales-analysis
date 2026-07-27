@@ -1,0 +1,60 @@
+product_id,category,brand,product_name,cost_price,selling_price,profit
+pro0001,Smartphone,Apple,iPhone 15,355,448.85,93.85
+pro0002,Smartphone,Honor,Honor 200,914,1145.01,231.01
+pro0003,Laptop,Apple,MacBook Pro 14,1175,1311.44,136.44
+pro0004,Laptop,Apple,MacBook Pro 16,2184,2519.62,335.62
+pro0005,Smartphone,Honor,Honor X9b,1369,1737.61,368.61
+pro0006,Tablet,Apple,iPad Pro 13,826,1012.59,186.59
+pro0007,Smartphone,Honor,Honor Magic6 Pro,766,948.66,182.66
+pro0008,Smartphone,Nokia,Nokia XR21,836,1064.71,228.71
+pro0009,Smart Home,Sony,BRAVIA 9,456,535.3,79.3
+pro0010,Tablet,Apple,iPad 10,1012,1256.56,244.56
+pro0011,Laptop,Dell,Inspiron 15,1469,1656.07,187.07
+pro0012,Laptop,HP,Pavilion 15,1752,1964.23,212.23
+pro0013,Laptop,Acer,Nitro V15,1575,1785.78,210.78
+pro0014,Smart Home,Sony,BRAVIA 8,286,392.56,106.56
+pro0015,Smart Home,TCL,TCL C755,1246,1723.69,477.69
+pro0016,Tablet,Samsung,Galaxy Tab S10 Ultra,1011,1144.49,133.49
+pro0017,Tablet,Samsung,Galaxy Tab S9,1083,1389.38,306.38
+pro0018,Smartphone,Xiaomi,Xiaomi 14 Ultra,538,668.79,130.79
+pro0019,Laptop,Lenovo,Legion Pro 5,951,1174.0,223.0
+pro0020,Smartphone,Apple,iPhone 15 Plus,1200,1509.26,309.26
+pro0021,Laptop,Lenovo,ThinkPad X1 Carbon,1334,1582.39,248.39
+pro0022,Laptop,Apple,MacBook Air M2,2184,2551.95,367.95
+pro0023,Tablet,Samsung,Galaxy Tab S9+,437,553.45,116.45
+pro0024,Tablet,Samsung,Galaxy Tab A9,354,398.91,44.91
+pro0025,Tablet,Xiaomi,Xiaomi Pad 6,413,527.73,114.73
+pro0026,Tablet,Apple,iPad Air,918,1097.18,179.18
+pro0027,Tablet,Xiaomi,Xiaomi Pad 7,877,1025.26,148.26
+pro0028,Smartphone,Samsung,Galaxy A35,1392,1628.92,236.92
+pro0029,Tablet,Apple,iPad Pro 11,1009,1208.41,199.41
+pro0030,Smart Home,TCL,TCL P755,922,1030.23,108.23
+pro0031,Smartphone,Samsung,Galaxy S24,1347,1593.57,246.57
+pro0032,Smartphone,Xiaomi,Redmi Note 13,721,837.01,116.01
+pro0033,Smartphone,Nokia,Nokia X30,1433,1726.24,293.24
+pro0034,Laptop,Lenovo,IdeaPad Slim 5,714,845.29,131.29
+pro0035,Laptop,HP,Victus 15,661,736.36,75.36
+pro0036,Laptop,Dell,Alienware M16,734,886.03,152.03
+pro0037,Smart Home,Toshiba,4K Smart TV M550,1427,1598.22,171.22
+pro0038,Tablet,Xiaomi,Redmi Pad Pro,1105,1234.8,129.8
+pro0039,Smart Home,Samsung,Smart TV QN85D,946,1139.92,193.92
+pro0040,Tablet,Apple,iPad Mini,1135,1379.33,244.33
+pro0041,Laptop,Apple,MacBook Air M3,2379,2823.78,444.78
+pro0042,Smartphone,Apple,iPhone 15 Pro,403,494.59,91.59
+pro0043,Smartphone,Xiaomi,POCO F6,1151,1350.41,199.41
+pro0044,Smartphone,Xiaomi,Xiaomi 14,490,611.15,121.15
+pro0045,Smart Home,Toshiba,4K Smart TV C350,218,261.7,43.7
+pro0046,Smartphone,Samsung,Galaxy A55,1163,1414.5,251.5
+pro0047,Laptop,HP,Envy 14,1702,2080.09,378.09
+pro0048,Smartphone,Apple,iPhone 14 Plus,1341,1655.4,314.4
+pro0049,Smart Home,Sony,BRAVIA 7,1945,2456.42,511.42
+pro0050,Smart Home,Samsung,SmartThings Hub,1014,1322.69,308.69
+pro0051,Laptop,Acer,Predator Helios Neo,1947,2410.75,463.75
+pro0052,Smart Home,Samsung,Smart TV Q70D,1996,2358.63,362.63
+pro0053,Smartphone,Apple,iPhone 16 Pro,823,954.94,131.94
+pro0054,Smartphone,Motorola,Moto G84,952,1102.77,150.77
+pro0055,Laptop,HP,Omen 16,1975,2265.02,290.02
+pro0056,Smartphone,Motorola,Moto G54,878,1059.7,181.7
+pro0057,Laptop,Acer,Swift Go 14,646,775.49,129.49
+pro0058,Smartphone,Nokia,Nokia G42,983,1221.99,238.99
+pro0059,Laptop,Dell,XPS 13,2123,2336.77,213.77
