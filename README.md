@@ -60,7 +60,7 @@ electronic-retail-sales-analysis/
 ├── images/                 # Dashboard screenshots
 │   ├── dashboard-overview.png
 │   └── dashboard-details.png
-└── data/                   # Sample/source data (if applicable)
+└── data/                  
 ```
 
 ## 🚀 How to View
